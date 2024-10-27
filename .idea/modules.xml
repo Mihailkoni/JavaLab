@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/First_laba_for_Leonia/First_laba_for_Leonia.iml" filepath="$PROJECT_DIR$/First_laba_for_Leonia/First_laba_for_Leonia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fourth_laba_for_Leonia/Fourth_laba_for_Leonia.iml" filepath="$PROJECT_DIR$/Fourth_laba_for_Leonia/Fourth_laba_for_Leonia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_Projects.iml" filepath="$PROJECT_DIR$/.idea/Java_Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Second_laba_for_Leonia/Second_laba_for_Leonia.iml" filepath="$PROJECT_DIR$/Second_laba_for_Leonia/Second_laba_for_Leonia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Third_laba_for_Leonia/Third_laba_for_Leonia.iml" filepath="$PROJECT_DIR$/Third_laba_for_Leonia/Third_laba_for_Leonia.iml" />
+    </modules>
+  </component>
+</project>
