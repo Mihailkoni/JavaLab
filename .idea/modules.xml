@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Fifth_laba_for_Leonia/Fifth_laba_for_Leonia.iml" filepath="$PROJECT_DIR$/Fifth_laba_for_Leonia/Fifth_laba_for_Leonia.iml" />
       <module fileurl="file://$PROJECT_DIR$/First_laba_for_Leonia/First_laba_for_Leonia.iml" filepath="$PROJECT_DIR$/First_laba_for_Leonia/First_laba_for_Leonia.iml" />
       <module fileurl="file://$PROJECT_DIR$/Fourth_laba_for_Leonia/Fourth_laba_for_Leonia.iml" filepath="$PROJECT_DIR$/Fourth_laba_for_Leonia/Fourth_laba_for_Leonia.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_Projects.iml" filepath="$PROJECT_DIR$/.idea/Java_Projects.iml" />
