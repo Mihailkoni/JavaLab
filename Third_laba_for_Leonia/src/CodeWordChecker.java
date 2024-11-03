@@ -10,9 +10,7 @@ public class CodeWordChecker implements StringChecker {
     }
 
     public CodeWordChecker(String badStr){
-        this.badStr = badStr;
-        this.minLength = 6;
-        this.maxLength = 20;
+        this(6,20,badStr);
     }
 
     public boolean isValid(String str){
