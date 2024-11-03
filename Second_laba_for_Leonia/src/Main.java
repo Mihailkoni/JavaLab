@@ -18,7 +18,6 @@ public class Main {
 
             int choice = scan.nextInt();
             scan.nextLine();
-
             switch (choice){
                 case 1:
                     if(musicDownloads.isEmpty()){
