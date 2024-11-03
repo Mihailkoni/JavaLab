@@ -57,6 +57,8 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        System.out.println(isCorrect("1234 567890;Россия,г.Санкт-петербург,ул.Державина,д.21,кв.801;123-456-789 12"));
+        System.out.println(isCorrect("1234 567990;Россия,г.Санкт-петерург,ул.Державина,д.21,кв.801;123-456-789 12"));
     }
 }
+
+
