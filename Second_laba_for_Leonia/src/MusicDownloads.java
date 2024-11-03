@@ -11,9 +11,9 @@ public class MusicDownloads {
 
     public DownloadInfo getDownloadInfo(String title)
     {
-        for(int i = 0; i < downloadList.size(); i++){
-            if(downloadList.get(i).getTitle().equalsIgnoreCase(title)) {
-                return downloadList.get(i);
+        for (DownloadInfo downloadInfo : downloadList) {
+            if (downloadInfo.getTitle().equalsIgnoreCase(title)) {
+                return downloadInfo;
             }
         }
         return null;
@@ -21,12 +21,12 @@ public class MusicDownloads {
 
     public void updateDownloads(List<String> titles)
     {
-        for(int i = 0; i < titles.size(); i++){
-            DownloadInfo info = getDownloadInfo(titles.get(i));
+        for (String title : titles) {
+            DownloadInfo info = getDownloadInfo(title);
             if (info != null) {
                 info.incrementTimesDownloaded();
             } else {
-                downloadList.add(new DownloadInfo(titles.get(i)));
+                downloadList.add(new DownloadInfo(title));
             }
         }
     }
