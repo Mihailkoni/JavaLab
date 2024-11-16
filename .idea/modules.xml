@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Eighth_laba_for_Leonia/Eighth_laba_for_Leonia.iml" filepath="$PROJECT_DIR$/Eighth_laba_for_Leonia/Eighth_laba_for_Leonia.iml" />
       <module fileurl="file://$PROJECT_DIR$/Fifth_laba_for_Leonia/Fifth_laba_for_Leonia.iml" filepath="$PROJECT_DIR$/Fifth_laba_for_Leonia/Fifth_laba_for_Leonia.iml" />
       <module fileurl="file://$PROJECT_DIR$/First_laba_for_Leonia/First_laba_for_Leonia.iml" filepath="$PROJECT_DIR$/First_laba_for_Leonia/First_laba_for_Leonia.iml" />
       <module fileurl="file://$PROJECT_DIR$/Fourth_laba_for_Leonia/Fourth_laba_for_Leonia.iml" filepath="$PROJECT_DIR$/Fourth_laba_for_Leonia/Fourth_laba_for_Leonia.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_Projects.iml" filepath="$PROJECT_DIR$/.idea/Java_Projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/Second_laba_for_Leonia/Second_laba_for_Leonia.iml" filepath="$PROJECT_DIR$/Second_laba_for_Leonia/Second_laba_for_Leonia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seventh_laba_for_Leonia/Seventh_laba_for_Leonia.iml" filepath="$PROJECT_DIR$/Seventh_laba_for_Leonia/Seventh_laba_for_Leonia.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sixth_laba_for_Leonia/Sixth_laba_for_Leonia.iml" filepath="$PROJECT_DIR$/Sixth_laba_for_Leonia/Sixth_laba_for_Leonia.iml" />
       <module fileurl="file://$PROJECT_DIR$/Third_laba_for_Leonia/Third_laba_for_Leonia.iml" filepath="$PROJECT_DIR$/Third_laba_for_Leonia/Third_laba_for_Leonia.iml" />
     </modules>
