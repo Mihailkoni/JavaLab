@@ -21,7 +21,7 @@ public class PersonList {
             writer.newLine();
             writer.write("-----------------------------------------------------------------");
             writer.newLine();
-            for(Person person:personList){
+            for(Person person : personList){
                 writer.write(person.toString());
                 writer.newLine();
             }

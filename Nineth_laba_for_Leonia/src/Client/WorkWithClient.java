@@ -113,12 +113,11 @@ class WorkWithClient {
                     } catch (IOException e){
                         serviceOff();
                     }
-
                 }
             }).start();
 
         }catch (IOException e){
-            // закрытие соединения
+            serviceOff();// закрытие соединения
         }
     }
 }
